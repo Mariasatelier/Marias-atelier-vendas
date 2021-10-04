@@ -166,8 +166,8 @@ button:hover{
   cursor: pointer;
   outline: none; 
   position: absolute;
-  top: 760px;
-  left: 0px;
+  top: 550px;
+  left: -40px;
 }
 .instagram1:hover{
   background-color: #fff;
@@ -185,13 +185,12 @@ button:hover{
   cursor: pointer;
   outline: none; 
   margin-top: 80px;
-  margin-left: 100px;
+  margin-left: 20px;
 }
 .icons:hover {
    background-color: #f5dbf4;
   color: #000000;
 }
-
 .icons1 {
    display: inline-block;
 }
