@@ -33,6 +33,7 @@ class MobileNavbar {
       this.addClickEvent();
     }
     return this;
+    
   }
 }
 
@@ -42,3 +43,10 @@ const mobileNavbar = new MobileNavbar(
   ".nav-list li",
 );
 mobileNavbar.init();
+
+function mascara(){
+ window.location.href = 'https://mariasatelier.github.io/Mascara-e-acessorios/'
+}
+function cozinha(){
+ window.location.href = 'https://mariasatelier.github.io/Acessorios-para-cozinha/'
+}
